@@ -5,7 +5,7 @@
 前提声明：笔者使用的是24.04（LTS）版本
 # 安装edge浏览器
 1. 首先，在安装ubuntu后第一件事，是从火狐浏览器上下载edge浏览器，因为火狐很不好用。
-从火狐浏览器搜索edge去点击下载，[如图](pacture/search.png)
+从火狐浏览器搜索edge去点击下载，![如图](pacture/search.png)
 2. 然后点击下载.deb版本![如图](pacture/downlosd.png)
 3. 下载后进入下载文件夹，右键单击空白处选择在终端打开，执行`sudo dpkg -i app_name`这里的app_name换成你下载的.deb文件的文件全名（如 code_1.95.2-1730981514_amd64.deb 这是我的，你的不一定叫这个）然后enter运行，稍后问你(y/n)输入 y 之后等待安装完成，然后就能在所有应用中看到edge浏览器了![附图](pacture/allapp.png)
 # 安装Visual Studio code
